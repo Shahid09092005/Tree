@@ -5,7 +5,7 @@ public class traverse {
         int data;
         Node left;
         Node right;
-        Node(int data){ // Constructor
+        Node(int data){ // Constructor 
             this.data=data;
             this.left =null;
             this.right=null;
